@@ -1,0 +1,13 @@
+{
+  "name" : "EU5 Minesweeper",
+  "id" : "",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.0.0",
+  "short_description" : "bosnia mode",
+  "thumbnail" : "thumbnail.png",
+  "tags" : ["Utilities", "User Interface"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : false
+  }
+}
