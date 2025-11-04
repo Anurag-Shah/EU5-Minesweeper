@@ -3,7 +3,7 @@
   "id" : "",
   "version" : "1.0.0",
   "supported_game_version" : "1.0.0",
-  "short_description" : "bosnia mode",
+  "short_description" : "Play Minesweeper inside Europa Universalis V! Note: multiplayer lobbies require all users to have the mod installed.",
   "thumbnail" : "thumbnail.png",
   "tags" : ["Utilities", "User Interface"],
   "relationships" : [],
