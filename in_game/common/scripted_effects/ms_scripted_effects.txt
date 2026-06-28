@@ -25154,7 +25154,7 @@ ms_copy_comp_to_value = {
     set_variable = { name = value_15_29 value = root.var:comp_15_29 }
 }
 
-# This is triggered on right clicking a cell at r, c
+# This is triggered on left clicking a cell at r, c
 ms_start_new_game = {
     # initialize
     set_variable = { name = ms_game value = 1 }

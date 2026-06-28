@@ -261,10 +261,10 @@ window = {
                 }
             }
             
-            # Game Board - todo
-            # this is going to be a vbox of 16 hboxes with 30 items each
+            # Game Board
+            # this is a vbox of 16 hboxes with 30 items each
             vbox = {
-                                hbox = {
+                hbox = {
                     ms_0 = {
                         visible = "[GetPlayer.MakeScope.Var('show_0_0_0').IsSet]"
                     }
